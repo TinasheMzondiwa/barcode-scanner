@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!-- <string-array name="supported_codes">
+        UPC-A	Code 39	QR Code
+        UPC-E	Code 93	Data Matrix
+        EAN-8	Code 128	Aztec (beta)
+        EAN-13	Codabar	PDF 417 (beta)
+        ITF
+        RSS-14
+        RSS-Expanded
+    </string-array>-->
+</resources>
